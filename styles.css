@@ -116,7 +116,7 @@ body
 
 /*MEDIA QUERY BREAKPOINTS */
 
-@media only screen and (max-width:1200px)
+@media only screen and (max-width:1600px)
 {  
     /* MAIN HEADING OF THE WEB PAGE. */
     .main-heading

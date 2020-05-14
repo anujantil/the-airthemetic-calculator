@@ -116,7 +116,7 @@ body
 
 /*MEDIA QUERY BREAKPOINTS */
 
-@media only screen and (max-width:1600px)
+@media only screen and (max-width:1700px)
 {  
     /* MAIN HEADING OF THE WEB PAGE. */
     .main-heading
@@ -133,7 +133,7 @@ body
     {
         margin:0px;
         margin-left:80px;
-        margin-right:200px;
+        margin-right:320px;
 
         margin-bottom:20px;
     }

@@ -18,4 +18,4 @@ function cut()
   var x=$(".display").val();
 
   $(".display").val(x.slice(0,x.length-1));
-}
+} 
